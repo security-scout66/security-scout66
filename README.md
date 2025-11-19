@@ -14,14 +14,16 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="80" />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="80"/>
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="80"/>
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" height="80"/>
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" height="80" />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="80" />
   <img width="24" />
@@ -31,7 +33,7 @@
   <img width="24" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7W2tY_YJFH-xnEDdZ1627MH6FHWKgkSDgA&s" height="80" />
   <img width="24" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" height="60" />
   <img width="24" />
   <img src="https://wazuh.com/uploads/2022/05/WAZUH.png" height="80" />
   <img width="24" />
